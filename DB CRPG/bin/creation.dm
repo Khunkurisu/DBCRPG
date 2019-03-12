@@ -1,0 +1,1 @@
+//This code should execute upon player login, giving them the option to create a new character or load their previous one.
